@@ -24,6 +24,7 @@ To get a local copy up and running follow these simple steps.
 
 ## DataBase Setup
 
+- Make sure MongoDBCompass is running on your local machine.
 - Open the .env-sample file provided in the repository.
 - Copy the contents of .env-sample.
 - Paste the contents into your .env file.
